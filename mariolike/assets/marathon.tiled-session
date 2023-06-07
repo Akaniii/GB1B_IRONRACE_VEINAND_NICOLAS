@@ -1,0 +1,35 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "#placeholder": {
+            "scaleInDock": 1
+        },
+        "marathon.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1086,
+                "y": 450
+            }
+        },
+        "marathon.tmx#placeholder": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "D:/veinand nicolas",
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 100,
+    "openFiles": [
+    ],
+    "project": "marathon.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.embedInMap": true
+}
